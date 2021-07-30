@@ -7,4 +7,4 @@ This app is a realtime chat app called Chatee. I used Firebase for user authenti
 
 <br /><br />
 
-<img src="https://i.imgur.com/S3WH4KM.png" width="250" />
+![](https://i.imgur.com/spShFpt.jpg)
